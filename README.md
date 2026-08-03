@@ -1,4 +1,4 @@
-# Soc-portafolio
+# cybersecurity-portfolio
 IT Support | Cybersecurity Student | TryHackMe | Future SOC Analyst
 
 # Hola, soy Adrián 👋
